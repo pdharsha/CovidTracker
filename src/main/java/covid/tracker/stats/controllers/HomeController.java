@@ -1,4 +1,4 @@
-package covid.tracker.controllers;
+package covid.tracker.stats.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

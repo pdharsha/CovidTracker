@@ -1,4 +1,4 @@
-package covid.tracker.stats;
+package covid.tracker.stats.models;
 
 public class LocationStats {
     

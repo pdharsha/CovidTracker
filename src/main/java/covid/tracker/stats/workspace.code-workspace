@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\Funda"
+		},
+		{
+			"name": "stats",
+			"path": "..\\..\\..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

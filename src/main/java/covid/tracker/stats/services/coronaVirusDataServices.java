@@ -1,4 +1,4 @@
-package covid.tracker.stats;
+package covid.tracker.stats.services;
 
 import java.io.IOException;
 import java.io.StringReader;
@@ -17,6 +17,8 @@ import org.springframework.scheduling.annotation.Scheduled;
 // import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 // import org.springframework.web.servlet.resource.HttpResource;
+
+import covid.tracker.stats.models.LocationStats;
 
 // import ch.qos.logback.core.net.server.Client;
 // import covid.tracker.models.LocationStats;
